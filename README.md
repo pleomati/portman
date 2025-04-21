@@ -22,9 +22,9 @@ Portman is a modern graphical interface for managing Windows firewalls. It allow
 
 1. Download the program source code.
 2. Install the required library:
-   ``bash
+   ```bash
  pip install sv_ttk
- ```
+
 3. Run the program as administrator to have access to all firewall functions.
 
 ## Using
