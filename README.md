@@ -26,6 +26,8 @@ Portman is a modern graphical interface for managing Windows firewalls. It allow
    pip install sv_ttk
 
 3. Run the program as administrator to have access to all firewall functions.
+   ```bash
+   python portman.py
 
 ## Using
 
